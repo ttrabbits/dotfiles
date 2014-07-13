@@ -24,7 +24,7 @@ set scrolloff=4 " 上下4行を常に表示
 set sidescrolloff=8 " 左右8文字を常に表示
 set laststatus=2
 
-" userbility
+" usability
 set mouse=a
 set ttymouse=xterm2
 set clipboard=unnamed,autoselect
